@@ -109,7 +109,8 @@ export default () => {
           'This can be done via the contact page or by sending an email to info@betacore.nl',
         footer_link: 'Links',
         succes: 'Message sent! We will respond as soon as possible.',
-        error: 'Something went wrong, please try again later.'
+        error: 'Something went wrong, please try again later.',
+        to_top: 'To top'
       }
     })
   })

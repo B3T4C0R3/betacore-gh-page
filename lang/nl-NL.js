@@ -110,7 +110,8 @@ export default () => {
           'Dat kan via de contact pagina of door een mail te sturen naar info@betacore.nl',
         footer_link: 'Links',
         succes: 'Bericht verstuurd! Wij zullen zo spoedig mogelijk reageren.',
-        error: 'Er is iets fout gegaan, probeer het later opnieuw.'
+        error: 'Er is iets fout gegaan, probeer het later opnieuw.',
+        to_top: 'Naar boven'
       }
     })
   })
