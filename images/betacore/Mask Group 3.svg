@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1375" height="479" viewBox="0 0 1375 479">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="1375" height="479" transform="translate(424 468)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-424 -468)" clip-path="url(#clip-path)">
+    <path id="hexa-green-deco" d="M349.957,0,0,613.242l349.957,613.236h699.915l349.957-613.236L1049.872,0Z" transform="translate(-262.568 1997.03) rotate(-90)"/>
+    <path id="hexa-green-deco-2" data-name="hexa-green-deco" d="M481.593,0,0,843.911l481.593,843.9h963.186l481.593-843.9L1444.779,0Z" transform="translate(955.432 2394.572) rotate(-90)"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="276.389" height="306.818" viewBox="0 0 276.389 306.818" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-82.000000, -68.000000)" fill="#000000">
+            <g id="Rotate" transform="translate(203.500000, 201.352321) rotate(-27.000000) translate(-203.500000, -201.352321) translate(51.000000, 54.000000)">
+                <path d="M37.2,0,0,65.195l37.2,65.194h74.409l37.2-65.194L111.614,0Z" transform="matrix(0.454, -0.891, 0.891, 0.454, 142.649, 252.021)" id="Fill-1"></path>
+                <path d="M37.2,0,0,65.195l37.2,65.194h74.409l37.2-65.194L111.614,0Z" transform="matrix(0.454, -0.891, 0.891, 0.454, 61.389, 116.343)" id="Fill-1"></path>
+                <path d="M37.2,0,0,65.195l37.2,65.194h74.409l37.2-65.194L111.614,0Z" transform="matrix(0.454, -0.891, 0.891, 0.454, -21.033, 251.674)" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>
