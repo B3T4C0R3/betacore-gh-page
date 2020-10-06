@@ -67,12 +67,12 @@ export default () => {
           'Een webshop laten maken kan op verschillende manieren. Welke is de juiste? BetaCore gelooft in maatwerk. Dat levert de webshop die bezoekers bekeert tot loyale klanten.',
         mainfeature_title: 'Werkwijze',
         mainfeature_subtitle:
-          'Wij maken websites, webshops en webapplicaties. Niet alleen omdat we dat graag doen en er verstand van hebben. Elke maatwerk oplossing die we opleveren, zien wij als middel om één doel te bereiken: uw doel.',
+          'Wij maken websites, webshops en webapplicaties. Niet alleen omdat we dat graag doen, maar ook omdat wij er verstand van hebben. Elke maatwerk oplossing die we opleveren, zien wij als middel om één doel te bereiken: uw doel.',
         design_title: 'Design',
         host_title: 'Host',
         develop_title: 'Develop',
         support_title: 'Support',
-        design_text: 'Wij werken uw visie uit in een ontwikkelplan',
+        design_text: 'Wij werken uw visie uit in een ontwikkelingsplan',
         host_text: 'Wij zorgen voor geschikte hosting',
         develop_text: 'Van design naar product volgens het plan',
         support_text: 'Iets wijzigen? Wij staan 24/7 voor U klaar',
@@ -90,11 +90,11 @@ export default () => {
         benefit_item_5: 'Responsive UI/UX',
         testi_title: 'Klantervaringen',
         testi_0:
-          'Innovatief bedrijf met flexibele oplossingen en maatwerk. Goed bereikbaar en klantgericht. Ook wanneer indien nodig buiten werktijden bereikbaar. Kortom, zeer tevreden en top service.',
+          'Innovatief bedrijf met flexibele oplossingen en maatwerk. Goed bereikbaar en klantgericht. Indien nodig ook buiten werktijden bereikbaar. Kortom, zeer tevreden en top service.',
         testi_1:
-          'Fijn geholpen. Altijd goed bereikbaar, dat is wel fijn want het is immers je brood waar het om gaat. De site is mooi geworden en cms werkt helemaal naar wens. Goede offerte. Nieuwe vast klant!',
+          'Fijn geholpen. Altijd goed bereikbaar, dat is wel fijn, want het is immers je brood waar het om gaat. De site is mooi geworden en cms werkt helemaal naar wens. Goede offerte. Nieuwe vast klant!',
         testi_2:
-          'Het process tot het realiseren van mijn website is vloeiend verlopen. Zowel het tussentijdse contact als het eindresultaat was volledig naar wens.',
+          'Het proces tot het realiseren van mijn website is vloeiend verlopen. Zowel het tussentijdse contact als het eindresultaat was volledig naar wens.',
         testi_subtitle: 'Wat zeggen onze klanten?',
         faq_title: 'Veelgestelde vragen',
         faq_subtitle:
@@ -107,7 +107,7 @@ export default () => {
           'Ja dat kan! Wij leveren de code en U kunt zelf de hosting regelen.',
         faq_q_2: 'Waar kan ik een prijsindicatie aanvragen?',
         faq_a_2:
-          'Dat kan via de contact pagina of door een mail te sturen naar info@betacore.nl',
+          'Dat kan via de contactpagina of door een mail te sturen naar info@betacore.nl',
         footer_link: 'Links',
         succes: 'Bericht verstuurd! Wij zullen zo spoedig mogelijk reageren.',
         error: 'Er is iets fout gegaan, probeer het later opnieuw.',
