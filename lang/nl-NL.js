@@ -53,7 +53,8 @@ export default () => {
         header_feature: 'Werkwijze',
         header_benefit: 'Waarom BetaCore?',
         header_contact: 'contact',
-        banner_subtitle: 'In no time een op maat gemaakte website en/of app.  ',
+        banner_subtitle:
+          'In een mum van tijd een op maat gemaakte website en/of app.',
         banner_getstarted: 'Meer info',
         banner_viewmarket: 'Contact',
         promo_item_title_0: 'Website laten maken',
