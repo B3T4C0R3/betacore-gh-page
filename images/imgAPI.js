@@ -28,14 +28,17 @@ const imgAPI = {
     'https://via.placeholder.com/1280x851/c4ffd7/757575',
     'https://via.placeholder.com/640x425/c4cdff/757575'
   ],
-  betacore: [
-    '/images/betacore/hexa-blue.png',
-    '/images/betacore/hexa-green.png',
-    '/images/betacore/hexa-blue.png',
-    '/images/betacore/hexa-green.png',
-    'https://via.placeholder.com/600x341/cac142/FFFFFF',
-    'https://via.placeholder.com/1280x677/204473/FFFFFF',
-    '/images/betacore/betacore_laptop.png'
+  profile: [
+    'https://via.placeholder.com/1080x497/ffb2ad/757575',
+    'https://via.placeholder.com/270x345/dedede/757575',
+    '/images/profile/pc.jpg',
+    'https://via.placeholder.com/400x400/4e5467/FFFFFF',
+    'https://via.placeholder.com/400x266/2f5ef3/FFFFFF',
+    'https://via.placeholder.com/400x266/dedafd/757575',
+    'https://via.placeholder.com/400x400/ea6f23/FFFFFF',
+    'https://via.placeholder.com/400x400/b79136/FFFFFF',
+    'https://via.placeholder.com/400x266/94fbf7/757575',
+    '/images/profile/pc-dark.jpg'
   ]
 }
 
