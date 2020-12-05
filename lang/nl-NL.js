@@ -46,7 +46,7 @@ export default () => {
         nl: 'Nederlands'
       },
       betacoreLanding: {
-        header_login: 'inloggen',
+        header_login: 'portal',
         header_register: 'registreren',
         header_language: 'taal',
         header_promotions: 'Onze diensten',
